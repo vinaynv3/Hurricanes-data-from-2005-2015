@@ -1,1 +1,1 @@
-# Hurricanes-data-from-2005-2015
+# Hurricanes data (2005-2015)
